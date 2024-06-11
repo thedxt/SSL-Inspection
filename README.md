@@ -1,5 +1,8 @@
 # SSL Inspection Exclusions
 
+## Cisco Duo
+* *.duosecurity.com | [Source](https://help.duo.com/s/article/1336?language=en_US)
+
 ## Microsoft 365
 * Microsoft 365 endpoints [Source](https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide) | [2nd Source](https://learn.microsoft.com/en-us/microsoft-365/solutions/networking-design-principles?view=o365-worldwide#to-proxy-or-not-to-proxy-that-is-the-question) | [3rd soruce](https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-networking-overview?view=o365-worldwide)
 
